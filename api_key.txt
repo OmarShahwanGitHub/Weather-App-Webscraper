@@ -1,0 +1,2 @@
+https://openweathermap.org/
+Make an account (free) then insert api key in this file after deleting everything else
