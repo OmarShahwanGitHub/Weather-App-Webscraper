@@ -1,6 +1,9 @@
 # Python-API-Open-Weather-App
 Python Open Weather Web Scraper App. Uses 'requests' library to scrape data from the 'json' file of the open weather website and select specific weather details for the user's selected city. The API key used is given to users registered to an account on the open weather site.
-
+## How To Run The Project
+* Clone the project
+* Create and copy open weather API key into txt file as explained below
+* Run the `weatherapp.py` file 
 ## Project setup
 ```
 pip install requests 
